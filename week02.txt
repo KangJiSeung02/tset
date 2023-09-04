@@ -9,4 +9,8 @@ git config --global user.name "your Name"
 git config --global --list
 git commit -m "v0"
 git log
-
+git cheakout hashcode
+git cheakout _
+git remote add origin https://github.com/KangJiSeung02/tset.git
+git remote -v
+git push -u origin main
